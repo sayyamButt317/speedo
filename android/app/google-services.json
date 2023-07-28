@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037852444514",
+    "project_id": "speedo-97101",
+    "storage_bucket": "speedo-97101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037852444514:android:c52e6b5512f430a3fb8e3b",
+        "android_client_info": {
+          "package_name": "com.example.speedo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037852444514-ckttk7e6lktunag6let2s888n1o4ti7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2paNhcsZss9Q6xFUxTfkCtXES3rXCGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037852444514-ckttk7e6lktunag6let2s888n1o4ti7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
